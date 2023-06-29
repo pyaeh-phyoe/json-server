@@ -1,0 +1,259 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone"
+    },
+    {
+      "id": 3,
+      "name": "Headphones"
+    },
+    {
+      "id": 4,
+      "name": "T-Shirt"
+    },
+    {
+      "id": 5,
+      "name": "Jeans"
+    },
+    {
+      "id": 6,
+      "name": "Sweater"
+    },
+    {
+      "id": 7,
+      "name": "Cushion"
+    },
+    {
+      "id": 8,
+      "name": "Table Lamp"
+    },
+    {
+      "id": 9,
+      "name": "Wall Clock"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "1688046297110",
+      "products": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Smartphone",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Headphones",
+          "quantity": 1
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 1
+    },
+    {
+      "orderId": "1688046307743",
+      "products": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 4
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 2
+    },
+    {
+      "orderId": "1688046335672",
+      "products": [
+        {
+          "id": 4,
+          "name": "T-Shirt",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "name": "Jeans",
+          "quantity": 4
+        },
+        {
+          "id": 6,
+          "name": "Sweater",
+          "quantity": 8
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 3
+    },
+    {
+      "orderId": "1688046899163",
+      "products": [
+        {
+          "id": 4,
+          "name": "T-Shirt",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "name": "Jeans",
+          "quantity": 4
+        },
+        {
+          "id": 6,
+          "name": "Sweater",
+          "quantity": 8
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 4
+    },
+    {
+      "orderId": "1688046901396",
+      "products": [
+        {
+          "id": 4,
+          "name": "T-Shirt",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "name": "Jeans",
+          "quantity": 4
+        },
+        {
+          "id": 6,
+          "name": "Sweater",
+          "quantity": 8
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 5
+    },
+    {
+      "orderId": "1688046909484",
+      "products": [
+        {
+          "id": 4,
+          "name": "T-Shirt",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "name": "Jeans",
+          "quantity": 4
+        },
+        {
+          "id": 6,
+          "name": "Sweater",
+          "quantity": 8
+        }
+      ],
+      "date": "2023-07-01",
+      "id": 6
+    },
+    {
+      "orderId": "1688046926331",
+      "products": [
+        {
+          "id": 6,
+          "name": "Sweater",
+          "quantity": 6
+        }
+      ],
+      "date": "2023-07-02",
+      "id": 7
+    },
+    {
+      "orderId": "1688051701282",
+      "products": [
+        {
+          "id": 5,
+          "name": "Jeans",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "T-Shirt",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Headphones",
+          "quantity": 1
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 8
+    },
+    {
+      "orderId": "1688051715682",
+      "products": [
+        {
+          "id": 5,
+          "name": "Jeans",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "T-Shirt",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Headphones",
+          "quantity": 1
+        },
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 9
+    },
+    {
+      "orderId": "1688051741185",
+      "products": [
+        {
+          "id": 9,
+          "name": "Wall Clock",
+          "quantity": 14
+        }
+      ],
+      "date": "6/29/2023",
+      "id": 10
+    },
+    {
+      "orderId": "1688052645001",
+      "products": [
+        {
+          "id": 4,
+          "name": "T-Shirt",
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "name": "Jeans",
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Sweater",
+          "quantity": 1
+        }
+      ],
+      "date": "2023-06-30",
+      "id": 11
+    }
+  ]
+}
